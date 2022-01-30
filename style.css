@@ -91,7 +91,7 @@ a.active,a:hover{
 }
 section{
     background: url(https://www.oxfordacademy.edu.np/public/storage/settings/April2020/jhJuNs1Az91Q2Ebejknp.png) no-repeat;
-    background-size: calc(90vh - 200px);
+    background-size: calc(90vh - 150px);
     height: calc(30vh - 50px);
     margin: 0 500px;
 }
